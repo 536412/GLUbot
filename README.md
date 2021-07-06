@@ -10,7 +10,6 @@ De volgende stappen moeten nog gerealizeert worden: <br>
 2. De webhosting van de bot
 
 Als je de bot eerst correct wilt opzetten lokaal op je computer, zal je eerst de volgende guide moeten volgen om je .env token te krijgen en de bot op te zetten onder je eigen naam: <br>
-Om de benodigde modules te krijgen: https://discordjs.guide/preparations/#installing-node-js <br> 
 Om je .env token te krijgen en op te zetten: https://discordjs.guide/preparations/setting-up-a-bot-application.html#keeping-your-token-safe <br>
 
 
