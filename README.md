@@ -1,7 +1,7 @@
 # GLUbot
 een bot voor de open dag van het Grafisch Lyceum Utrecht
 
-Je kan de volgende links gebruiken om meer inzicht te gebruiken aan een discord bot coderen:
+Je kan de volgende links gebruiken om meer inzicht te gebruiken aan een discord bot coderen: <br>
 DiscordJS documentatie: https://discord.js.org/#/docs/main/stable/general/welcome
 DiscordJS discord server: https://discord.com/invite/djs
 
