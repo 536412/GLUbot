@@ -8,3 +8,5 @@ DiscordJS discord server: https://discord.com/invite/djs <br>
 De volgende stappen moeten nog gerealizeert worden: <br>
 1. De gebrancheerde gesprek routes dat je kan nemen (De functies van de bot) <br>
 2. De webhosting van de bot
+
+Als er nog wat meer hulp nodig hebt bij het programmeren van de bot, kan je mij ook bereiken op discord @Tableflip#7167 voor directie
